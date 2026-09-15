@@ -1,0 +1,8 @@
+{
+  "name": "Blackstone Junk Removal",
+  "description": "Professional junk removal in Anaheim, CA. Blackstone Junk Removal handles furniture, appliances, cleanouts, unwanted items and more with fast, professional service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
